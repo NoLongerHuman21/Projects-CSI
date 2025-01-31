@@ -1,1 +1,1 @@
-Comprhensive CC project 1 of CelebatTech internship
+Comprhensive Customer Care Dashboard project of CelebalTech virtual internship 
